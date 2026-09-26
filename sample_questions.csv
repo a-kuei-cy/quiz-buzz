@@ -1,0 +1,4 @@
+type,text,option1,option2,option3,option4,answer,seconds,points
+choice,嘉義市位於臺灣哪一個區域？,北部,中部,南部,東部,3,20,1000
+truefalse,道將圳是嘉義重要的水利文化資源,,,,,true,15,1000
+short,興嘉國小校訂課程中的在地水圳名稱是？,,,,,道將圳,20,1000
